@@ -1,0 +1,6 @@
+pandas
+lxml
+tensorflow
+matplotlib
+pillow
+tensorflow-object-detection-api
